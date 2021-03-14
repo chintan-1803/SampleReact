@@ -1,5 +1,6 @@
 const GblData = {
-    loginSuccessful:false
-}
+  loginSuccessful: false,
+  serverUrl: "http://localhost:8000",
+};
 
 export default GblData;
